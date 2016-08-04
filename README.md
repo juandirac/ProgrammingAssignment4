@@ -1,12 +1,9 @@
 # ProgrammingAssignment4
 Coursera - Programming Assignment 4 - The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set.
 
-==================================================================
 Human Activity Recognition Using Smartphones Dataset
 Programming Assignment - Coursera Getting and Cleaning Data
-==================================================================
 Juan Garcia Gomez (juandirac)
-==================================================================
 
 
 1 - The Experiments - Previous Information
